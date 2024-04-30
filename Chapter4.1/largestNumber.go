@@ -10,6 +10,7 @@ func main() {
 		counter = 0
 		num     int
 		largest int
+		//smallest int
 	)
 
 	for counter <= 10 {
